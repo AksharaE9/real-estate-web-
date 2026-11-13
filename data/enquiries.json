@@ -1,0 +1,24 @@
+[
+  {
+    "id": "ENQ-MWEYX9TF",
+    "createdAt": "2026-11-13T12:43:50.643Z",
+    "status": "new",
+    "name": "Rohit Verma",
+    "propertyTitle": "The Monolith (Golf Course Road, DLF Phase 5, Gurugram)",
+    "phone": "+91 84311 19696",
+    "email": "rohit.verma@example.com",
+    "message": "Please schedule a private viewing.",
+    "interest": "Buying"
+  },
+  {
+    "id": "ENQ-SAMPLE1",
+    "createdAt": "2026-11-13T17:00:00.000Z",
+    "name": "Arjun Kapoor",
+    "email": "arjun.kapoor@example.com",
+    "phone": "+91 98100 23456",
+    "interest": "Buying",
+    "propertyTitle": "Obsidian House",
+    "location": "Golf Links, New Delhi",
+    "message": "Interested in scheduling a private architectural walkthrough."
+  }
+]
